@@ -1,0 +1,38 @@
+# Node.js dependencies
+/node_modules
+
+# Vite build output
+/dist
+
+# TypeScript
+*.tsbuildinfo
+
+# Tailwind CSS
+*.css.map
+
+# Logs
+npm-debug.log*
+*.log
+
+# Environment files
+.env
+.env*.local
+
+# JetBrain IDE
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup and temporary files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Git-related
+*.orig
